@@ -1,11 +1,11 @@
-﻿生成启动时间为 2020/12/3 22:18:54。
+﻿生成启动时间为 2020/12/19 10:43:25。
      1>项目“D:\新建文件夹\WordCount\WordCount\WordCount.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\WordCount.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt WordCount.cpp
          WordCount.cpp
-     1>d:\新建文件夹\wordcount\wordcount\wordcount.cpp(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>d:\新建文件夹\wordcount\wordcount\wordcount.cpp(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
        ManifestResourceCompile:
          所有输出均为最新。
@@ -25,4 +25,4 @@
 
 生成成功。
 
-已用时间 00:00:00.67
+已用时间 00:00:00.82
